@@ -5,4 +5,4 @@ A program based on [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_
 It uses Swing library for creating a GUI and works with multithreading.
 
 #
-This program is based on the Game of Life project on [Jet Brains Academy](https://hyperskill.org).
+This program is based on the Game of Life project on [JetBrains Academy](https://hyperskill.org).
